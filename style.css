@@ -16,7 +16,6 @@ body {
 .contanier {
     display: flex;
     flex-direction: column;
-
 }
 
 nav {
@@ -127,12 +126,11 @@ header img {
     justify-content: center;
     align-items: center;
     border: none;
-
 }
 
 .text input {
     width: 400px;
-
+    outline: none;
 }
 
 .text input::placeholder {
